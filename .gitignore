@@ -1,0 +1,9 @@
+# Python bytecode (generated automatically, never commit)
+__pycache__/
+*.pyc
+
+# Local virtual environment
+.venv/
+
+# Simulated disk for the file system (generated at runtime)
+disk.img
